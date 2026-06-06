@@ -1,0 +1,38 @@
+{
+  "name": "fahrenheit-theme",
+  "displayName": "Fahrenheit",
+  "description": "A warm, amber-toned dark theme inspired by incandescent heat — from ember black to scorched orange to blazing white.",
+  "version": "1.0.0",
+  "publisher": "Tanvir101cmd",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "warm",
+    "amber",
+    "orange",
+    "terminal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fahrenheit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fahrenheit-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tanvir101cmd/vscode-fahrenheit-theme"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
