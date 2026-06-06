@@ -1,88 +1,69 @@
-<svg width="100%" viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Fahrenheit color palette</title>
-  <desc>16 color swatches from the Fahrenheit theme, arranged in two rows of 8</desc>
-
-  <rect width="680" height="360" fill="#1a1a1a"/>
-
-  <!-- Row 1 -->
-  <rect x="20"  y="20" width="70" height="100" rx="4" fill="#ffffff" stroke="#444" stroke-width="0.5"/>
-  <text x="55"  y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">white</text>
-  <text x="55"  y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffffff</text>
-  <text x="55"  y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 15</text>
-
-  <rect x="103" y="20" width="70" height="100" rx="4" fill="#ffffd7" stroke="#444" stroke-width="0.5"/>
-  <text x="138" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">cream</text>
-  <text x="138" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffffd7</text>
-  <text x="138" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 230</text>
-
-  <rect x="186" y="20" width="70" height="100" rx="4" fill="#ffd7af" stroke="#444" stroke-width="0.5"/>
-  <text x="221" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">peach</text>
-  <text x="221" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffd7af</text>
-  <text x="221" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 223</text>
-
-  <rect x="269" y="20" width="70" height="100" rx="4" fill="#d7af87" stroke="#444" stroke-width="0.5"/>
-  <text x="304" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">tan</text>
-  <text x="304" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#d7af87</text>
-  <text x="304" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 180</text>
-
-  <rect x="352" y="20" width="70" height="100" rx="4" fill="#af875f" stroke="#444" stroke-width="0.5"/>
-  <text x="387" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">brown</text>
-  <text x="387" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#af875f</text>
-  <text x="387" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 137</text>
-
-  <rect x="435" y="20" width="70" height="100" rx="4" fill="#d7875f" stroke="#444" stroke-width="0.5"/>
-  <text x="470" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">ember</text>
-  <text x="470" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#d7875f</text>
-  <text x="470" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 173</text>
-
-  <rect x="518" y="20" width="70" height="100" rx="4" fill="#ffaf5f" stroke="#444" stroke-width="0.5"/>
-  <text x="553" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">amber</text>
-  <text x="553" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffaf5f</text>
-  <text x="553" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 215</text>
-
-  <rect x="601" y="20" width="70" height="100" rx="4" fill="#ffd787" stroke="#444" stroke-width="0.5"/>
-  <text x="636" y="138" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">gold</text>
-  <text x="636" y="152" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffd787</text>
-  <text x="636" y="165" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 222</text>
-
-  <!-- Row 2 -->
-  <rect x="20"  y="195" width="70" height="100" rx="4" fill="#ffd75f" stroke="#444" stroke-width="0.5"/>
-  <text x="55"  y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">yellow</text>
-  <text x="55"  y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#ffd75f</text>
-  <text x="55"  y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 221</text>
-
-  <rect x="103" y="195" width="70" height="100" rx="4" fill="#d75f00" stroke="#444" stroke-width="0.5"/>
-  <text x="138" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">scorch</text>
-  <text x="138" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#d75f00</text>
-  <text x="138" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 166</text>
-
-  <rect x="186" y="195" width="70" height="100" rx="4" fill="#870000" stroke="#444" stroke-width="0.5"/>
-  <text x="221" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">crimson</text>
-  <text x="221" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#870000</text>
-  <text x="221" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 88</text>
-
-  <rect x="269" y="195" width="70" height="100" rx="4" fill="#875f5f" stroke="#444" stroke-width="0.5"/>
-  <text x="304" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">brick</text>
-  <text x="304" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#875f5f</text>
-  <text x="304" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 95</text>
-
-  <rect x="352" y="195" width="70" height="100" rx="4" fill="#5f87af" stroke="#444" stroke-width="0.5"/>
-  <text x="387" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">steel</text>
-  <text x="387" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#5f87af</text>
-  <text x="387" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 67</text>
-
-  <rect x="435" y="195" width="70" height="100" rx="4" fill="#a8a8a8" stroke="#444" stroke-width="0.5"/>
-  <text x="470" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">grey</text>
-  <text x="470" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#a8a8a8</text>
-  <text x="470" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 248</text>
-
-  <rect x="518" y="195" width="70" height="100" rx="4" fill="#262626" stroke="#555" stroke-width="0.5"/>
-  <text x="553" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">surface</text>
-  <text x="553" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#262626</text>
-  <text x="553" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 235</text>
-
-  <rect x="601" y="195" width="70" height="100" rx="4" fill="#000000" stroke="#555" stroke-width="0.5"/>
-  <text x="636" y="313" text-anchor="middle" fill="#cccccc" font-family="monospace" font-size="11" font-weight="600">black</text>
-  <text x="636" y="327" text-anchor="middle" fill="#999999" font-family="monospace" font-size="10">#000000</text>
-  <text x="636" y="340" text-anchor="middle" fill="#666666" font-family="monospace" font-size="10">term 0</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated by Pixelmator Pro 3.7.1 -->
+<svg width="680" height="360" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
+    <path id="Path" fill="#24292e" stroke="none" d="M 0 0 L 680 0 L 680 360 L 0 360 Z"/>
+    <path id="path1" fill="#ffffff" stroke="#444444" stroke-width="0.5" d="M 24 20 L 86 20 C 88.209137 20 90 21.790863 90 24 L 90 116 C 90 118.209137 88.209137 120 86 120 L 24 120 C 21.790861 120 20 118.209137 20 116 L 20 24 C 20 21.790863 21.790861 20 24 20 Z"/>
+    <text id="white" xml:space="preserve" x="36.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">white</text>
+    <text id="ffffff" xml:space="preserve" x="32.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#ffffff</text>
+    <text id="term-15" xml:space="preserve" x="32.496582" y="167" font-family="Courier" font-size="10" fill="#666666">term 15</text>
+    <path id="path2" fill="#ffffd7" stroke="#444444" stroke-width="0.5" d="M 107 20 L 169 20 C 171.209137 20 173 21.790863 173 24 L 173 116 C 173 118.209137 171.209137 120 169 120 L 107 120 C 104.790863 120 103 118.209137 103 116 L 103 24 C 103 21.790863 104.790863 20 107 20 Z"/>
+    <text id="cream" xml:space="preserve" x="119.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">cream</text>
+    <text id="ffffd7" xml:space="preserve" x="115.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#ffffd7</text>
+    <text id="term-230" xml:space="preserve" x="112.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 230</text>
+    <path id="path3" fill="#ffd7af" stroke="#444444" stroke-width="0.5" d="M 190 20 L 252 20 C 254.209137 20 256 21.790863 256 24 L 256 116 C 256 118.209137 254.209137 120 252 120 L 190 120 C 187.790863 120 186 118.209137 186 116 L 186 24 C 186 21.790863 187.790863 20 190 20 Z"/>
+    <text id="peach" xml:space="preserve" x="202.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">peach</text>
+    <text id="ffd7af" xml:space="preserve" x="198.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#ffd7af</text>
+    <text id="term-223" xml:space="preserve" x="195.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 223</text>
+    <path id="path4" fill="#d7af87" stroke="#444444" stroke-width="0.5" d="M 273 20 L 335 20 C 337.209137 20 339 21.790863 339 24 L 339 116 C 339 118.209137 337.209137 120 335 120 L 273 120 C 270.790863 120 269 118.209137 269 116 L 269 24 C 269 21.790863 270.790863 20 273 20 Z"/>
+    <text id="tan" xml:space="preserve" x="292.098389" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">tan</text>
+    <text id="d7af87" xml:space="preserve" x="281.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#d7af87</text>
+    <text id="term-180" xml:space="preserve" x="278.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 180</text>
+    <path id="path5" fill="#af875f" stroke="#444444" stroke-width="0.5" d="M 356 20 L 418 20 C 420.209137 20 422 21.790863 422 24 L 422 116 C 422 118.209137 420.209137 120 418 120 L 356 120 C 353.790863 120 352 118.209137 352 116 L 352 24 C 352 21.790863 353.790863 20 356 20 Z"/>
+    <text id="brown" xml:space="preserve" x="368.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">brown</text>
+    <text id="af875f" xml:space="preserve" x="364.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#af875f</text>
+    <text id="term-137" xml:space="preserve" x="361.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 137</text>
+    <path id="path6" fill="#d7875f" stroke="#444444" stroke-width="0.5" d="M 439 20 L 501 20 C 503.209137 20 505 21.790863 505 24 L 505 116 C 505 118.209137 503.209137 120 501 120 L 439 120 C 436.790863 120 435 118.209137 435 116 L 435 24 C 435 21.790863 436.790863 20 439 20 Z"/>
+    <text id="ember" xml:space="preserve" x="451.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">ember</text>
+    <text id="d7875f" xml:space="preserve" x="447.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#d7875f</text>
+    <text id="term-173" xml:space="preserve" x="444.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 173</text>
+    <path id="path7" fill="#ffaf5f" stroke="#444444" stroke-width="0.5" d="M 522 20 L 584 20 C 586.209167 20 588 21.790863 588 24 L 588 116 C 588 118.209137 586.209167 120 584 120 L 522 120 C 519.790833 120 518 118.209137 518 116 L 518 24 C 518 21.790863 519.790833 20 522 20 Z"/>
+    <text id="amber" xml:space="preserve" x="534.497314" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">amber</text>
+    <text id="ffaf5f" xml:space="preserve" x="530.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#ffaf5f</text>
+    <text id="term-215" xml:space="preserve" x="527.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 215</text>
+    <path id="path8" fill="#ffd787" stroke="#444444" stroke-width="0.5" d="M 605 20 L 667 20 C 669.209167 20 671 21.790863 671 24 L 671 116 C 671 118.209137 669.209167 120 667 120 L 605 120 C 602.790833 120 601 118.209137 601 116 L 601 24 C 601 21.790863 602.790833 20 605 20 Z"/>
+    <text id="gold" xml:space="preserve" x="621.297852" y="140" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">gold</text>
+    <text id="ffd787" xml:space="preserve" x="613.496582" y="154" font-family="Courier" font-size="10" fill="#999999">#ffd787</text>
+    <text id="term-222" xml:space="preserve" x="610.496094" y="167" font-family="Courier" font-size="10" fill="#666666">term 222</text>
+    <path id="path9" fill="#ffd75f" stroke="#444444" stroke-width="0.5" d="M 24 195 L 86 195 C 88.209137 195 90 196.790863 90 199 L 90 291 C 90 293.209137 88.209137 295 86 295 L 24 295 C 21.790861 295 20 293.209137 20 291 L 20 199 C 20 196.790863 21.790861 195 24 195 Z"/>
+    <text id="yellow" xml:space="preserve" x="33.196777" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">yellow</text>
+    <text id="ffd75f" xml:space="preserve" x="32.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#ffd75f</text>
+    <text id="term-221" xml:space="preserve" x="29.496094" y="342" font-family="Courier" font-size="10" fill="#666666">term 221</text>
+    <path id="path10" fill="#d75f00" stroke="#444444" stroke-width="0.5" d="M 107 195 L 169 195 C 171.209137 195 173 196.790863 173 199 L 173 291 C 173 293.209137 171.209137 295 169 295 L 107 295 C 104.790863 295 103 293.209137 103 291 L 103 199 C 103 196.790863 104.790863 195 107 195 Z"/>
+    <text id="scorch" xml:space="preserve" x="116.196777" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">scorch</text>
+    <text id="d75f00" xml:space="preserve" x="115.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#d75f00</text>
+    <text id="term-166" xml:space="preserve" x="112.496094" y="342" font-family="Courier" font-size="10" fill="#666666">term 166</text>
+    <path id="path11" fill="#870000" stroke="#444444" stroke-width="0.5" d="M 190 195 L 252 195 C 254.209137 195 256 196.790863 256 199 L 256 291 C 256 293.209137 254.209137 295 252 295 L 190 295 C 187.790863 295 186 293.209137 186 291 L 186 199 C 186 196.790863 187.790863 195 190 195 Z"/>
+    <text id="crimson" xml:space="preserve" x="196.39624" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">crimson</text>
+    <text id="870000" xml:space="preserve" x="198.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#870000</text>
+    <text id="term-88" xml:space="preserve" x="198.496582" y="342" font-family="Courier" font-size="10" fill="#666666">term 88</text>
+    <path id="path12" fill="#875f5f" stroke="#444444" stroke-width="0.5" d="M 273 195 L 335 195 C 337.209137 195 339 196.790863 339 199 L 339 291 C 339 293.209137 337.209137 295 335 295 L 273 295 C 270.790863 295 269 293.209137 269 291 L 269 199 C 269 196.790863 270.790863 195 273 195 Z"/>
+    <text id="brick" xml:space="preserve" x="285.497314" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">brick</text>
+    <text id="875f5f" xml:space="preserve" x="281.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#875f5f</text>
+    <text id="term-95" xml:space="preserve" x="281.496582" y="342" font-family="Courier" font-size="10" fill="#666666">term 95</text>
+    <path id="path13" fill="#5f87af" stroke="#444444" stroke-width="0.5" d="M 356 195 L 418 195 C 420.209137 195 422 196.790863 422 199 L 422 291 C 422 293.209137 420.209137 295 418 295 L 356 295 C 353.790863 295 352 293.209137 352 291 L 352 199 C 352 196.790863 353.790863 195 356 195 Z"/>
+    <text id="steel" xml:space="preserve" x="368.497314" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">steel</text>
+    <text id="5f87af" xml:space="preserve" x="364.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#5f87af</text>
+    <text id="term-67" xml:space="preserve" x="364.496582" y="342" font-family="Courier" font-size="10" fill="#666666">term 67</text>
+    <path id="path14" fill="#a8a8a8" stroke="#444444" stroke-width="0.5" d="M 439 195 L 501 195 C 503.209137 195 505 196.790863 505 199 L 505 291 C 505 293.209137 503.209137 295 501 295 L 439 295 C 436.790863 295 435 293.209137 435 291 L 435 199 C 435 196.790863 436.790863 195 439 195 Z"/>
+    <text id="grey" xml:space="preserve" x="455.297852" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">grey</text>
+    <text id="a8a8a8" xml:space="preserve" x="447.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#a8a8a8</text>
+    <text id="term-248" xml:space="preserve" x="444.496094" y="342" font-family="Courier" font-size="10" fill="#666666">term 248</text>
+    <path id="path15" fill="#262626" stroke="#555555" stroke-width="0.5" d="M 522 195 L 584 195 C 586.209167 195 588 196.790863 588 199 L 588 291 C 588 293.209137 586.209167 295 584 295 L 522 295 C 519.790833 295 518 293.209137 518 291 L 518 199 C 518 196.790863 519.790833 195 522 195 Z"/>
+    <text id="surface" xml:space="preserve" x="528.39624" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">surface</text>
+    <text id="262626" xml:space="preserve" x="530.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#262626</text>
+    <text id="term-235" xml:space="preserve" x="527.496094" y="342" font-family="Courier" font-size="10" fill="#666666">term 235</text>
+    <path id="path16" fill="#000000" stroke="#555555" stroke-width="0.5" d="M 605 195 L 667 195 C 669.209167 195 671 196.790863 671 199 L 671 291 C 671 293.209137 669.209167 295 667 295 L 605 295 C 602.790833 295 601 293.209137 601 291 L 601 199 C 601 196.790863 602.790833 195 605 195 Z"/>
+    <text id="black" xml:space="preserve" x="617.497314" y="315" font-family="Courier" font-size="11" font-weight="700" fill="#cccccc">black</text>
+    <text id="000000" xml:space="preserve" x="613.496582" y="329" font-family="Courier" font-size="10" fill="#999999">#000000</text>
+    <text id="term-0" xml:space="preserve" x="616.49707" y="342" font-family="Courier" font-size="10" fill="#666666">term 0</text>
 </svg>
