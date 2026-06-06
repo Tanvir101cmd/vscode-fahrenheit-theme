@@ -28,19 +28,7 @@ Built on a 256-color base16 palette ranging from ember black to scorched orange 
 
 ## Installation
 
-First, clone the repo:
-
-```sh
-git clone https://github.com/Tanvir101cmd/vscode-fahrenheit-theme.git
-```
-
-Go inside the repository by:
-
-```sh
-cd vscode-fahrenheit-theme
-```
-
-Install it via:
+Download `fahrenheit-theme-1.0.0.vsix` from the [latest release](https://github.com/Tanvir101cmd/vscode-fahrenheit-theme/releases/latest), then run:
 
 ```sh
 #VSCode
