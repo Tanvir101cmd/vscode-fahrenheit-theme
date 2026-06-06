@@ -28,15 +28,15 @@ Built on a 256-color base16 palette ranging from ember black to scorched orange 
 
 ## Installation
 
-Download `fahrenheit-theme-1.0.0.vsix` from the [latest release](https://github.com/Tanvir101cmd/vscode-fahrenheit-theme/releases/latest), then run:
+Download `fahrenheit-theme-1.0.1.vsix` from the [latest release](https://github.com/Tanvir101cmd/vscode-fahrenheit-theme/releases/latest), then run:
 
 ```sh
 #VSCode
-code --install-extension fahrenheit-theme-1.0.0.vsix
+code --install-extension fahrenheit-theme-1.0.1.vsix
 
 
 #VSCodium
-codium --install-extension fahrenheit-theme-1.0.0.vsix
+codium --install-extension fahrenheit-theme-1.0.1.vsix
 ```
 
 Then open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → **Fahrenheit**.
