@@ -28,14 +28,26 @@ Built on a 256-color base16 palette ranging from ember black to scorched orange 
 
 ## Installation
 
-Install via the command line:
+First, clone the repo:
 
 ```sh
-# VSCode
+git clone https://github.com/Tanvir101cmd/vscode-fahrenheit-theme.git
+```
+
+Go inside the repository by:
+
+```sh
+cd vscode-fahrenheit-theme
+```
+
+Install it via:
+
+```sh
+#VSCode
 code --install-extension fahrenheit-theme-1.0.0.vsix
 
 
-# VSCodium
+#VSCodium
 codium --install-extension fahrenheit-theme-1.0.0.vsix
 ```
 
