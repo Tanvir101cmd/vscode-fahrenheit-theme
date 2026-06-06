@@ -10,7 +10,7 @@ Built on a 256-color base16 palette ranging from ember black to scorched orange 
 
 ## Palette
 
-![Fahrenheit palette](palette.svg)
+![Fahrenheit palette](palette.png)
 
 | Color      | Hex       | Role                    |
 | ------------| -----------| -------------------------|
